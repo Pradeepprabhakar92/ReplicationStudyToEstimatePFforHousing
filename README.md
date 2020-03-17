@@ -5,7 +5,7 @@
 [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ReplicationStudy/ReplicationStudyToEstimatePFforHousing/master?urlpath=rstudio)
 [![R build status](https://github.com/ReplicationStudy/ReplicationStudyToEstimatePFforHousing/workflows/R-CMD-check/badge.svg)](https://github.com/ReplicationStudy/ReplicationStudyToEstimatePFforHousing/actions)
 [![Docker build](https://github.com/ReplicationStudy/ReplicationStudyToEstimatePFforHousing/workflows/Docker-build/badge.svg)](https://github.com/ReplicationStudy/ReplicationStudyToEstimatePFforHousing/actions)
-[![DOI](https://img.shields.io/badge/OSF-DOI%3A%2010.17605%2FOSF.IO%2Fxxxx-brightgreen)](https://osf.io/g9ztn/)
+[![DOI](https://img.shields.io/badge/OSF-DOI%3A%2010.17605%2FOSF.IO%2FG9ZTN-brightgreen)](https://osf.io/g9ztn/)
 <!-- badges: end -->
 
 
@@ -16,6 +16,11 @@
 3. [Mayur Gupta](https://github.com/mayurgpt07) [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-9139-5519) 
 4. [Pradeep Prabhakar](https://github.com/Pradeepprabhakar92) [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-6202-5607) 
 5. [Sreeja Vishaly Manohar](https://github.com/Sreejavm) [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-7566-5336 )
+
+### Archival Copy
+
+An archival copy of this project is stored on osf.io  
+DOI: https://doi.org/10.17605/OSF.IO/G9ZTN
 
 ### Contents:
 
@@ -96,6 +101,10 @@ install.packages(c("R.basic"), contriburl="http://www.braju.com/R/repos/")
 <pre>
 [1] /Library/Frameworks/R.framework/Versions/3.6/Resources/library
 </pre>
+
+### Licenses:
+
+This replication project is licensed under the terms of the [MIT license](https://github.com/ReplicationStudy/ReplicationStudyToEstimatePFforHousing/blob/master/LICENSE.md)
 
 ### Contributing:
 We welcome contributions from everyone. Before you get started, please see our contributor guidelines. Please note that this project is released with a [Contributor Code of Conduct](https://github.com/ReplicationStudy/ReplicationStudyToEstimatePFforHousing/blob/master/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its [terms](https://github.com/ReplicationStudy/ReplicationStudyToEstimatePFforHousing/blob/master/CONTRIBUTING.md).
